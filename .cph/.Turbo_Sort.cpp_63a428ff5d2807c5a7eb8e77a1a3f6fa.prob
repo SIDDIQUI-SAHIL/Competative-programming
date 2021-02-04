@@ -1,0 +1,1 @@
+{"name":"Turbo Sort","group":"CodeChef - Practice(Beginner)","url":"https://www.codechef.com/problems/TSORT","interactive":false,"memoryLimit":256,"timeLimit":3047.5,"tests":[],"testType":"single","input":{"type":"stdin"},"output":{"type":"stdout"},"languages":{"java":{"mainClass":"Main","taskClass":"TurboSort"}},"srcPath":"d:\\cpp_codeforces\\Turbo_Sort.cpp"}
