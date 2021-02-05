@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int n,cm=0;
+    int gm=0;
+    cin>>n;
+    for(int i=1;i<=10;i++){
+        if(n%i==0){
+            cm=i;
+        }
+        if(cm>gm){
+            gm=cm;
+        }
+    }
+    cout<<gm<<endl;
+    return 0;
+}
