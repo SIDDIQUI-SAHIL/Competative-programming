@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void spiralprint(int a[][1000], int m, int n) {
-
+	//m=row n=col;
 	int startRow = 0;
 	int startCol = 0;
 	int endRow = m - 1;
