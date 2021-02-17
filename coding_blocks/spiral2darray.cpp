@@ -16,6 +16,7 @@ void spiralprint(int a[][1000], int m, int n) {
 		}
 		startRow++;
 
+		//end column
 		for (int i = startRow; i <= endRow; i++) {
 			cout << a[i][endCol] << " ";
 		}
